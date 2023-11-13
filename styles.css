@@ -9,3 +9,6 @@
 	border:1px solid grey;
 	border-radius:3px;
 }
+.close-modal{
+	display:none;
+}
